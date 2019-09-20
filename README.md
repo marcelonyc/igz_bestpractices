@@ -1,2 +1,2 @@
 # igz_bestpractices
-Best practices fro using the Iguazio platform
+Best practices for using the Iguazio platform
